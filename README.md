@@ -1,2 +1,2 @@
 # Operating-System
-the record of OS lectures
+the record of OS lectures.
